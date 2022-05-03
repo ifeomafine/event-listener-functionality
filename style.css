@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script:wght@400;700&display=swap');
+
+* {
+    box-sizing: border-box;
+
+}
+body {
+    font-family: Oleo Script ;
+    width: 100%;
+    padding: 5% 0 0 45%;
+}
+#text:hover , #change:hover , #down:hover , #over:hover {
+    background-color: brown;
+}
+
+#text {
+    background-color: red;
+    width: 15%;
+    padding: 3%;
+    border-radius: 50%;
+    color: white;
+
+}
+#change {
+    background-color: green;
+    width: 15%;
+    padding:3%;
+    border-radius: 50%;
+    color: white;
+
+}
+#down {
+    background-color: blue;
+    width: 15%;
+    padding: 3%;
+    border-radius: 50%;
+    color: white;
+
+}
+#over {
+    background-color: black;
+    width: 15%;
+    padding: 3%;
+    border-radius: 50%;
+    color: white;
+
+}
